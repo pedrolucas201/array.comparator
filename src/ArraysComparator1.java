@@ -5,9 +5,9 @@ public class ArraysComparator1 {
 
     public static void main(String[] args) {
         int[] vet1;
-        vet1 = new int[5];
+        vet1 = new int[6];
         int[] vet2;
-        vet2 = new int[5];
+        vet2 = new int[6];
         int i;
 
         for (i = 0; i < 1; i++){
